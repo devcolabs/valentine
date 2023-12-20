@@ -1,1 +1,1 @@
-This is an interface to the image gallery.
+This is an interface to the valentine images.
